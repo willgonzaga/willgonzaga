@@ -18,7 +18,7 @@ Tenho 16 anos, comecei a programar em julho de 2021 fazendo bots para discord. N
 
 ### Tecnologias
 
-- Node.js
-- PHP
-- Desenvolvimento Web
-- MySQL
+- Node.js - Nivel Intermediário
+- PHP - Nivel Básico
+- Desenvolvimento Web - Nivel Básico
+- MySQL - Nivel Básico
