@@ -8,11 +8,10 @@ Tenho 16 anos, comecei a programar em julho de 2021 fazendo bots para discord. N
 ### Alguns projetos meus
 
 - ### Aplicações
-  - Notebot
-  > Bot de discord que atua como bloco de notas
   
 - ### Sites
-  - 
+  - [oTalDoDolar](https://otaldodolar.vercel.app)
+  > Site que mostra valor de algumas cotações
 
 ---
 
