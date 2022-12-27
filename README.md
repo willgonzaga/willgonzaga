@@ -10,7 +10,7 @@ Tenho 16 anos, comecei a programar em julho de 2021 fazendo bots para discord. N
 - ### Aplicações
   
 - ### Sites
-  - [oTalDoDolar](https://otaldodolar.vercel.app)
+  - [oTalDoDolar](https://otaldodolar.cf)
   > Site que mostra valor de algumas cotações
 
 ---
