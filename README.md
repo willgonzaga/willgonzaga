@@ -11,7 +11,7 @@ Tenho 16 anos, comecei a programar em julho de 2021 fazendo bots para discord. N
   
 - ### Sites
 
-  - [Card](https://vailei.vercel.app)
+  - [Profile Card](https://vailei.vercel.app)
   > Card de Portfólio
 
 
