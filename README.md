@@ -11,15 +11,18 @@ Tenho 16 anos, comecei a programar em julho de 2021 fazendo bots para discord. N
   
 - ### Sites
 
-  - [Profile Card](https://vailei.vercel.app)
+  - [Profile Card](https://willgonzaga.tech)
   > Site Perfil/Portfolio
+  > [Repositório](https://github.com/vailei/portfolio)
 
 
   - [oTalDoDolar](https://otaldodolar.cf)
   > Site que mostra valor de algumas cotações
+  > [Repositório](https://github.com/vailei/oTaldoDolar)
 
   - [AltF4](https://altf4.cf)
   > Site de notícias gamer
+  > [Repositório](https://github.com/vailei/AltF4)
 ---
 
 ### Conhecimento
