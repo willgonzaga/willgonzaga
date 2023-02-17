@@ -11,8 +11,8 @@ Tenho 16 anos, comecei a programar em julho de 2021 fazendo bots para discord. N
   
 - ### Sites
 
-  - [Profile Card](https://willgonzaga.tech)
-  > Site Perfil/Portfolio
+  - [Portfólio](https://willgonzaga.tech)
+  > Site Portfólio
   
   > [Repositório](https://github.com/vailei/portfolio)
 
