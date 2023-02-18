@@ -6,8 +6,6 @@ Tenho 16 anos, comecei a programar em julho de 2021 fazendo bots para discord. N
 ---
 
 ## Alguns projetos meus
-
-- ### Aplicações
   
 - ### Sites
 
