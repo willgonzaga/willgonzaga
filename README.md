@@ -8,9 +8,11 @@ Tenho 16 anos, comecei a programar em julho de 2021 fazendo bots para discord. N
 ### Conhecimento
 
 - Node.js
+- MongoDB
 
 Aprendendo:
 - PHP
 - Desenvolvimento Web
 - MySQL
-- MongoDB
+- Python
+- Java
