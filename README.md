@@ -16,7 +16,7 @@
 **|**
 [![Skills](https://skillicons.dev/icons?i=php,java,python)](https://skillicons.dev)
 **|**
-[![Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 **|**
 ---
 
