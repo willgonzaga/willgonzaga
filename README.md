@@ -3,7 +3,7 @@
 <h3>Sobre mim</h3>
 
 - 🧑‍🎓 Desenvolvedor Back-End.
-- 😼 16 Anos.
+- 😼 17 Anos.
 
 ### 🌐 Conhecimento
 **|**
