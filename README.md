@@ -11,12 +11,16 @@
 **|**
 [![Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 **|**
+[![Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+**|**
 
 ### 👨‍🏫 Aprendendo
 **|**
 [![Skills](https://skillicons.dev/icons?i=php,java,python)](https://skillicons.dev)
 **|**
 [![Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+**|**
+[![Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 **|**
 ---
 
