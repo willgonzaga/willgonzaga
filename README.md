@@ -20,7 +20,7 @@
 **|**
 [![Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 **|**
-[![Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,laravel)](https://skillicons.dev)
 **|**
 ---
 
