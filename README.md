@@ -9,7 +9,7 @@
 **|**
 [![Skills](https://skillicons.dev/icons?i=nodejs,html,css,javascript)](https://skillicons.dev)
 **|**
-[![Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 **|**
 [![Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 **|**
@@ -17,8 +17,6 @@
 ### 👨‍🏫 Aprendendo
 **|**
 [![Skills](https://skillicons.dev/icons?i=php,java,python)](https://skillicons.dev)
-**|**
-[![Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 **|**
 [![Skills](https://skillicons.dev/icons?i=docker,laravel)](https://skillicons.dev)
 **|**
