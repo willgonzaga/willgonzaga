@@ -17,7 +17,6 @@
 **|**
 [![Skills](https://skillicons.dev/icons?i=php,java,python)](https://skillicons.dev)
 **|**
-[![Skills](https://skillicons.dev/icons?i=docker,laravel)](https://skillicons.dev)
 [![Skills](https://skillicons.dev/icons?i=docker,spring,laravel)](https://skillicons.dev)
 **|**
 ---
