@@ -6,18 +6,20 @@
 
 ### 🌐 Conhecimento
 **|**
-[![Skills](https://skillicons.dev/icons?i=nodejs,html,css,javascript)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,nodejs,html,css,javascript)](https://skillicons.dev)
 **|**
 [![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+**|**
+[![Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 **|**
 [![Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 **|**
 
 ### 👨‍🏫 Aprendendo
 **|**
-[![Skills](https://skillicons.dev/icons?i=php,java,python)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)
 **|**
-[![Skills](https://skillicons.dev/icons?i=docker,spring,laravel)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,laravel)](https://skillicons.dev)
 **|**
 ---
 
