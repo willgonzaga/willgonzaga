@@ -1,29 +1,67 @@
-<h2>Meu nome é Willey 👋</h2>
+<h1 align="center">Olá! Eu sou o Willey 👋</h1>
+<h3 align="center">Desenvolvedor Back-End apaixonado por tecnologia e aprendizado contínuo</h3>
 
-<h3>Sobre mim</h3>
-
-- 🧑‍🎓 Desenvolvedor Back-End.
-
-### 🌐 Conhecimento
-**|**
-[![Skills](https://skillicons.dev/icons?i=java,nodejs,html,css,javascript)](https://skillicons.dev)
-**|**
-[![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
-**|**
-[![Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
-**|**
-[![Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-**|**
-
-### 👨‍🏫 Aprendendo
-**|**
-[![Skills](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)
-**|**
-[![Skills](https://skillicons.dev/icons?i=docker,laravel)](https://skillicons.dev)
-**|**
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=willgonzaga&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Will github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willgonzaga&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<p align="center">
+  🚀 Construindo o futuro, uma linha de código por vez.<br>
+</p>
+
+---
+
+<h2 align="center">💻 Minhas Habilidades</h2>
+
+<h3 align="center">🛠️ Linguagens</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,php,python,html,css" alt="Linguagens" />
+  </a>
+</p>
+
+<h3 align="center">📚 Frameworks e Bibliotecas</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,laravel" alt="Frameworks e Bibliotecas" />
+  </a>
+</p>
+
+<h3 align="center">🛠️ Ferramentas e Tecnologias</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux" alt="Ferramentas" />
+  </a>
+</p>
+
+<h3 align="center">🗄️ Bancos de Dados</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Bancos de Dados" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">📈 Estatísticas</h3>
+<div align="center">
+  <img height="165px" src="https://githubstats-eta.vercel.app/api?username=willgonzaga&theme=transparent&show_icons=true" alt="Estatísticas do GitHub" />
+  <img height="165px" src="https://githubstats-eta.vercel.app/api/top-langs/?username=willgonzaga&theme=transparent&layout=compact&count_private=true7" alt="Linguagens Mais Usadas" />
 </div>
+
+---
+
+<h3 align="center">📞 Entre em Contato</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/willeygonzaga" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:willey.gonzaga28@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" />
+  </a>
+  <a href="https://github.com/willgonzaga">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<h4 align="center">"Não é sobre ideias. É sobre fazer as ideias acontecerem." – Scott Belsky</h4>
