@@ -28,7 +28,7 @@
 <h3 align="center">🛠️ Ferramentas e Tecnologias</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux" alt="Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" alt="Ferramentas" />
   </a>
 </p>
 
