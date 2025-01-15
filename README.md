@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Willey 👋</h1>
-<h3 align="center">Desenvolvedor Back-End apaixonado por tecnologia e aprendizado contínuo</h3>
+<h3 align="center">Desenvolvedor de Software apaixonado por tecnologia e aprendizado contínuo</h3>
 
 ---
 
@@ -14,14 +14,14 @@
 <h3 align="center">🛠️ Linguagens</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,php,python,html,css" alt="Linguagens" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,php,python,html,css,typescript,vite" alt="Linguagens" />
   </a>
 </p>
 
 <h3 align="center">📚 Frameworks e Bibliotecas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,laravel" alt="Frameworks e Bibliotecas" />
+    <img src="https://skillicons.dev/icons?i=spring,laravel,react" alt="Frameworks e Bibliotecas" />
   </a>
 </p>
 
