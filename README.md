@@ -24,7 +24,7 @@
     <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vite,nodejs,php,python,mysql,mongodb,html,css" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vite,nodejs,php,python,mysql,mongodb" />
   </div>
 </div>
 
